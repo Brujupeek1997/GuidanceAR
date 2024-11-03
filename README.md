@@ -3,15 +3,6 @@
 All changes will be documented here.
 
 ---
-
-## [0.1.0] - 2024-11-02
-
-### 🚀 New Additions
-
-- **Research Articles**  
-  Pushed some research articles related to the **VWA** "Guidance" or "Mark & Guidance" in AR on mobile phone,  in the `research_articles` folder. 
-
----
 ## [0.2.0] - 2024-12-02
 
 ### 🚀 New Additions
@@ -53,7 +44,16 @@ All changes will be documented here.
 <img src="test_results/highlighted/highlighted_t7.png" alt="Diagram of the project structure" width="300"/>
 
 
+---
+
+## [0.1.0] - 2024-11-02
+
 ### 🚀 New Additions
+
+- **Research Articles**  
+  Pushed some research articles related to the **VWA** "Guidance" or "Mark & Guidance" in AR on mobile phone,  in the `research_articles` folder. 
+
+
 ---
 
 > **Legend:**
