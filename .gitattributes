@@ -1,3 +1,4 @@
 models/yolo11x-seg.pt filter=lfs diff=lfs merge=lfs -text
 runs/segment/train4/weights/best.pt filter=lfs diff=lfs merge=lfs -text
 runs/segment/train4/weights/last.pt filter=lfs diff=lfs merge=lfs -text
+runs/detect/train16/weights/best.pt filter=lfs diff=lfs merge=lfs -text
