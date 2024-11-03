@@ -5,7 +5,7 @@ All changes will be documented here.
 
 ---
 
-## [0.2.0] - 2024-12-02
+## [0.3.0] - 2024-12-02
 
 ### 🔧 **Changes**
 ### Fixed recognition
