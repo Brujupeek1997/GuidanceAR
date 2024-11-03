@@ -1,0 +1,17 @@
+path: ./data
+
+train: images/train
+val: images/val
+
+labels:
+  train: labels/train
+  val: labels/val
+
+masks:
+  train: masks/train
+  val: masks/val
+
+nc: 1
+names: ["screwdriver"]
+
+task: segment
