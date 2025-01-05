@@ -2,6 +2,18 @@
 
 All changes will be documented here.
 
+## [0.5.0] - 2025-01-03
+
+A recording that I did while testing yolo11n how it detects all lego pieces from a mini set:
+
+
+<video width="600" controls>
+  <source src="Alpha.mp4" type="video/mp4">
+</video>
+
+
+---
+
 ## [0.4.0] - 2024-12-10
 
 ### 🔧 **Changes**
