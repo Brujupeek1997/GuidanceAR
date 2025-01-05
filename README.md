@@ -6,10 +6,7 @@ All changes will be documented here.
 
 A recording that I did while testing yolo11n how it detects all lego pieces from a mini set:
 
-
-<video width="600" controls>
-  <source src="Alpha.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/0e53a605-6893-4635-b5f6-1af7f184294b
 
 
 ---
