@@ -24,7 +24,6 @@ correctly the lego bricks + **the navigating arrow** !!
 **Here are the videos took at the same time on server and on phone:**
 
 https://github.com/user-attachments/assets/c7fcb456-c476-4f30-8520-8c7282d3744f
-https://github.com/user-attachments/assets/8ca60a46-ac5f-4960-a850-4a016cec4e6a
 
 ---
 
