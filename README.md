@@ -2,12 +2,34 @@
 
 All changes will be documented here.
 
+
+## [0.6.0] - 2025-01-14
+### 🚀 New Additions
+
+Made some progress about server and android app:
+- server works on PC, it retrieves, uses YOLO trained model, process images from phone correctly (see video 1)
+- On unity the connection side works good. Features:
+  1. checking if connected to the server, if not it trys to reconnect
+  2. Capture button sends image key-frame to the server to be processed
+  3. it is pretty smooth, so no lag in AR or overall app
+
+### 🎯 **TODO**: 
+- !! I am working on displaying the **bboxes** in AR mode in real time. Did not managed yet to do it. But the server process
+correctly the lego bricks + **the navigating arrow** !!
+
+- I will make the UI elements more beautiful and modern at the end.
+
+- Adding more training data (different objects)
+
+**Here are the videos took at the same time on server and on phone:**
+
+---
+
 ## [0.5.0] - 2025-01-03
 
 A recording that I did while testing yolo11n how it detects all lego pieces from a mini set:
 
 https://github.com/user-attachments/assets/0e53a605-6893-4635-b5f6-1af7f184294b
-
 
 ---
 
