@@ -33,6 +33,11 @@ A recording that I did while testing yolo11n how it detects all lego pieces from
 
 https://github.com/user-attachments/assets/0e53a605-6893-4635-b5f6-1af7f184294b
 
+
+and phone:
+https://github.com/user-attachments/assets/8ca60a46-ac5f-4960-a850-4a016cec4e6a
+
+
 ---
 
 ## [0.4.0] - 2024-12-10
