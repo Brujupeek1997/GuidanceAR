@@ -25,6 +25,10 @@ correctly the lego bricks + **the navigating arrow** !!
 
 https://github.com/user-attachments/assets/c7fcb456-c476-4f30-8520-8c7282d3744f
 
+
+
+https://github.com/user-attachments/assets/8ca60a46-ac5f-4960-a850-4a016cec4e6a
+
 ---
 
 ## [0.5.0] - 2025-01-03
@@ -32,11 +36,6 @@ https://github.com/user-attachments/assets/c7fcb456-c476-4f30-8520-8c7282d3744f
 A recording that I did while testing yolo11n how it detects all lego pieces from a mini set:
 
 https://github.com/user-attachments/assets/0e53a605-6893-4635-b5f6-1af7f184294b
-
-
-and phone:
-https://github.com/user-attachments/assets/8ca60a46-ac5f-4960-a850-4a016cec4e6a
-
 
 ---
 
