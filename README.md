@@ -2,6 +2,10 @@
 
 All changes will be documented here.
 
+## [1.0.0] - 2025-05-29
+
+At this point server side was already done and the overall app is done, for Unity the project was given through the website, and it was saved on Unity Cloud too 
+
 
 ## [0.6.0] - 2025-01-14
 ### 🚀 New Additions
