@@ -1,5 +1,4 @@
-# Dataset configuration for YOLO detection and segmentation
-path: C:\Users\rares\OneDrive\Desktop\data\dataset
+path: C:\Users\rares\OneDrive\Desktop\data\dataset\dataset
 
 train: images/train
 val: images/val
@@ -8,11 +7,9 @@ labels:
   train: labels/train
   val: labels/val
 
-masks:
-  train: masks/train
-  val: masks/val
 
-nc: 1  # Number of classes
-names: ["seat_pice"]
+nc: 1
+names: ['Gunting']
 
-task: segment  # Supports both detection and segmentation
+
+task: detect

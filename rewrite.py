@@ -1,12 +1,10 @@
 import os
 
-# Define directories
 train_img_dir = r"data/images/train"
 val_img_dir = r"data/images/val"
 train_label_dir = r"data/labels/train"
 val_label_dir = r"data/labels/val"
 
-# Ensure the label directories exist
 os.makedirs(train_label_dir, exist_ok=True)
 os.makedirs(val_label_dir, exist_ok=True)
 
